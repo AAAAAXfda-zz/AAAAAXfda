@@ -38,13 +38,10 @@
 <summary><b>📩 Contact me</b></summary
 <ul>
 <li>💬 Discord : <code>James#9238</code> </li>
-<li>🦜 Twitter : <a href="https://twitter.com/jakeshelley">@HerbeMalveilla1</a></li>
-<li>🎥 Youtube : <a href="https://www.youtube.com/channel/UCBo6NP6WdlePYlJMLKLK40g">James Haville</a></li>
 </ul> 
 
 </details>
 
-<b>Visit my website : <a href="https://www.jamesqquick.com/">jamesqquick.com/</a></b>
 
 <hr>
 
