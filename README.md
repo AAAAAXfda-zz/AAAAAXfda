@@ -1,4 +1,4 @@
-<h2>Hi 👋 , I'm James, a 15 y/o developer.</h2>
+<h2>Hi 👋 , I'm Benjamin, a 15 y/o developer.</h2>
 
 <hr>
 
